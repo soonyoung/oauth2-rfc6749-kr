@@ -12,3 +12,4 @@ OAuth 2.0 Authorization Framework RFC 6749판 번역
 
 ## 번역자
 [Young Jae Sim](https://github.com/Hanul)
+[leekunhee](https://github.com/leekunhee)
